@@ -1,0 +1,21 @@
+{
+  "name": "fe-mono",
+  "version": "1.0.0",
+  "description": "frontend mono-repo demostration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "monorepo",
+    "lerna",
+    "git",
+    "npm",
+    "yarn"
+  ],
+  "author": "tengyu",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}
