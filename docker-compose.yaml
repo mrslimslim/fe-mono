@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  efd:
+    build: .
+    # 配置镜像版本
+    image: "fe-mono:v0.0.1"
+    container_name: fe-mono
+    ports: 
+      - "8077:80"

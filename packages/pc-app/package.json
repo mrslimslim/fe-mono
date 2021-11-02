@@ -7,12 +7,18 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.24.0",
+    "constant": "1.0.0",
     "element-plus": "^1.1.0-beta.24",
+    "public-utils": "0.1.0",
     "staff-name": "^0.1.0",
+    "vant": "^3.2.6",
     "vue": "^3.2.16"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.9.3",
+    "commitizen": "^4.2.4",
     "vite": "^2.6.4"
-  }
+  },
+  "gitHead": "93a3046cf431699ad2457739acb8a421e6e6ba12"
 }

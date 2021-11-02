@@ -1,15 +1,11 @@
 {
-  "name": "staff-name",
+  "name": "public-utils",
   "version": "0.1.0",
-  "description": "staffname public component",
-  "keywords": [
-    "staff",
-    "public"
-  ],
+  "description": "> TODO: description",
   "author": "tengyu <tengyu@tencent.com>",
   "homepage": "https://github.com/mrslimslim/fe-mono#readme",
   "license": "ISC",
-  "main": "/lib/index.vue",
+  "main": "lib/public-utils.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -29,10 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/mrslimslim/fe-mono/issues"
-  },
-  "gitHead": "93a3046cf431699ad2457739acb8a421e6e6ba12",
-  "dependencies": {
-    "axios": "^0.24.0",
-    "vant": "^3.2.6"
   }
 }
