@@ -1,7 +1,7 @@
 #!/bin/bash
 
 DOCKER_NAME=fe-mono
-VERSION=v0.0.1
+VERSION=v0.0.2
 TEST_VERSION=test
 DOCKER_HUB=mirrors.tencent.com/fe-mono/efd-frontend
 
